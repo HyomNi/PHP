@@ -5,6 +5,6 @@
     }
   }
 
-  $a = new a();
+  $a = new a;
   $a->hello();
 ?>
